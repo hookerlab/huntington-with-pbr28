@@ -6,7 +6,19 @@ This is the companion code and data for the research paper *"Neuroinflammation i
 
 ## Running the code
 
-You can run the code from your browser by clicking in the Binder badge above or download it and run it in your computer as a Jupyter notebook.
+You can run the code from your browser by clicking here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/hookerlab/huntington-with-pbr28)
+
+Alternatively you can download the code and run it in your computer as a Jupyter notebook:
+
+1. [Download this repo](https://github.com/hookerlab/huntington-with-pbr28/archive/master.zip) and unzip it.
+2. [Install Anaconda for your operating system](https://www.continuum.io/downloads).
+3. Create an new `conda` environment and activate it, and run a `jupyter` notebook:
+```
+$ cd huntington-with-pbr28
+$ conda create --name huntington-with-28 -f environment.yml jupyter
+$ source activate
+$ jupyter notebook
+```
 
 ## Citation
 
