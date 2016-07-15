@@ -20,6 +20,10 @@ $ source activate
 $ jupyter notebook
 ```
 
+## Interactive viewer for the images
+
+You can get an interactive view of the MNI images at [neurovault.org](http://neurovault.org/collections/GHXGLWPB/)
+
 ## Citation
 
 This is research work. In case you use any of this code or data, please cite our paper:
