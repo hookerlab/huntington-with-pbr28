@@ -2,6 +2,8 @@ subject_id	group	neurological_score	intracraneal_volume
 sub-control01	control	None	1720386.09
 sub-control02	control	None	1294547.181
 sub-control03	control	None	1719868.263
+sub-control04	control	None	1593477.677760
+sub-control05	control	None	1502191.858592
 sub-patient01	pre-HD	12	1691144.459
 sub-patient02	HD	11	1620931.35
 sub-patient03	HD	11	1623384.994
