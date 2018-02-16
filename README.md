@@ -1,6 +1,7 @@
 # Neuroinflammation in Huntington's Disease: new insights with 11C-PBR28 PET/MRI
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/hookerlab/huntington-with-pbr28)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1174364.svg)](https://doi.org/10.5281/zenodo.1174364)
 
 This is the companion code and data for the research paper *"Neuroinflammation in Huntington's Disease: new insights with 11C-PBR28 PET/MRI"*, by Cristina Lois, Iv&aacute;n Gonz&aacute;lez, David Izquierdo-Garc&iacute;a, Nicole R. Z&uuml;rcher, Paul Wilkens, Marco L. Loggia, Jacob M. Hooker, and Diana H. Rosas.
 
